@@ -1,0 +1,125 @@
+{
+  "Essential Information to Collect": {
+    "Personal Details": [
+      "Full name and professional title",
+      "Professional headshot photo (high resolution)",
+      "Professional email address",
+      "Phone number",
+      "Location (city, country)",
+      "Professional tagline or elevator pitch"
+    ],
+    "Bio Information": [
+      "Brief professional summary (2-3 paragraphs)",
+      "Years of experience",
+      "Educational background",
+      "Key achievements or certifications",
+      "Personal interests related to your field"
+    ],
+    "Technical Skills": [
+      "Programming languages you know",
+      "Frameworks and libraries",
+      "Tools and software",
+      "Design skills",
+      "Soft skills"
+    ],
+    "Projects": [
+      "3-6 best projects to showcase",
+      "High-quality screenshots or mockups",
+      "Project descriptions (problem, solution, impact)",
+      "Technologies used for each project",
+      "Links to live demos or repositories",
+      "Results or metrics if available"
+    ],
+    "Resume": [
+      "Updated PDF resume",
+      "Ensure consistent branding with portfolio"
+    ],
+    "Social Media": [
+      "GitHub profile URL",
+      "LinkedIn profile URL",
+      "Twitter profile URL (if professional)",
+      "Behance/Dribbble (for designers)",
+      "Personal website or blog"
+    ]
+  },
+  "Before You Start Customization": [
+    "Backup the original files",
+    "Set up a development environment",
+    "Test the portfolio on different devices",
+    "Prepare all content in a document first",
+    "Optimize all images (compress for web)"
+  ],
+  "Step-by-Step Customization Process": {
+    "1. Replace Personal Information": [
+      "Update name in navigation and hero section",
+      "Change professional title and tagline",
+      "Update meta title and description",
+      "Replace placeholder bio text"
+    ],
+    "2. Add Your Photo": [
+      "Crop photo to square aspect ratio",
+      "Optimize file size (under 200KB)",
+      "Update image src and alt text",
+      "Test loading speed"
+    ],
+    "3. Customize Skills Section": [
+      "List 6-8 core skills",
+      "Organize by categories (Frontend, Backend, Tools)",
+      "Use consistent naming conventions",
+      "Prioritize most relevant skills"
+    ],
+    "4. Add Projects": [
+      "Start with 3 strongest projects",
+      "Write compelling descriptions",
+      "Add technology badges",
+      "Include call-to-action buttons",
+      "Test all external links"
+    ],
+    "5. Setup Contact Form": [
+      "Choose a form service (Formspree, Netlify Forms)",
+      "Update form action attribute",
+      "Test form submission",
+      "Add success/error messages"
+    ],
+    "6. Final Details": [
+      "Update copyright year",
+      "Add social media links",
+      "Update resume download link",
+      "Add Google Analytics (optional)"
+    ]
+  },
+  "Testing Checklist": [
+    "Mobile responsiveness on different screen sizes",
+    "Navigation works on all devices",
+    "All links open correctly",
+    "Form submission works",
+    "Images load properly",
+    "Contact information is accurate",
+    "Resume downloads successfully",
+    "Site loads quickly (under 3 seconds)",
+    "Accessibility with keyboard navigation",
+    "Cross-browser compatibility"
+  ],
+  "Deployment Options": {
+    "Free Options": [
+      "GitHub Pages (easiest for beginners)",
+      "Netlify (great for automatic deployments)",
+      "Vercel (excellent performance)",
+      "Firebase Hosting (Google's platform)"
+    ],
+    "Paid Options": [
+      "Custom domain with any hosting provider",
+      "Shared hosting (affordable)",
+      "VPS hosting (more control)",
+      "Professional hosting services"
+    ]
+  },
+  "Maintenance Tips": [
+    "Update projects regularly (every 3-6 months)",
+    "Keep resume current",
+    "Monitor site performance",
+    "Check for broken links quarterly",
+    "Update contact information as needed",
+    "Refresh design annually to stay modern"
+  ]
+}
